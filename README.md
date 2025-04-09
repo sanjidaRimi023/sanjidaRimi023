@@ -1,13 +1,13 @@
 
 <h1>👋 Hi there, I'm Sanjida Akter Rimi — Aspiring Front-End Developer 🚀</h1>
 
-<p>Welcome to my GitHub profile! I'm on an exciting journey to become a skilled **Front-End Web Developer**, continuously learning, experimenting, and building cool things along the way.<p>
+<p>Welcome to my GitHub profile! I'm on an exciting journey to become a skilled 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, continuously learning, experimenting, and building cool things along the way.<p>
 
 ---
 
 ## 💡 About Me
 
-I'm passionate about crafting **interactive web applications** and love working on **collaborative projects** that help me grow, challenge my skills, and push creative boundaries. Whether it's solving problems with clean code or learning the latest frameworks, I'm always in "build mode"!
+I'm passionate about crafting **𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔** and love working on **𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔** that help me grow, challenge my skills, and push creative boundaries. Whether it's solving problems with clean code or learning the latest frameworks, I'm always in "build mode"!
 
 > 💬 Whether you're here to explore my projects, offer feedback, or collaborate — you're always welcome!
 
