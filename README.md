@@ -104,16 +104,6 @@ I'm passionate about crafting **interactive web applications** and love working 
   <img src="https://github-profile-trophy.vercel.app/?username=sanjidaRimi023&theme=monokai&row=1&column=6" alt="Trophies" />
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</p>
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjidaRimi023.sanjidaRimi023" alt="Visitor badge"/>
