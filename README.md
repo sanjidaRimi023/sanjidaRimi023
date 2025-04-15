@@ -97,7 +97,8 @@ I'm passionate about crafting **interactive web applications** and love working 
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjidaRimi023/sanjidaRimi023/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
 </p>
 
 ---
