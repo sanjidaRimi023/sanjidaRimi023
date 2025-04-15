@@ -1,42 +1,38 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0B55&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sanjida+Akter+Rimi!;Aspiring+Front-End+Developer+%F0%9F%9A%80;Always+Learning+%E2%9C%A8Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<h1>👋 Hi there, I'm Sanjida Akter Rimi — Aspiring Front-End Developer 🚀</h1>
 
-<p>Welcome to my GitHub profile! I'm on an exciting journey to become a skilled 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, continuously learning, experimenting, and building cool things along the way.<p>
 
 ---
 
 ## 💡 About Me
 
-I'm passionate about crafting **𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔** and love working on **𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔** that help me grow, challenge my skills, and push creative boundaries. Whether it's solving problems with clean code or learning the latest frameworks, I'm always in "build mode"!
+I'm passionate about crafting **interactive web applications** and love working on **collaborative projects** that help me grow, challenge my skills, and push creative boundaries. Whether it's solving problems with clean code or learning the latest frameworks, I'm always in "build mode"!
 
 > 💬 Whether you're here to explore my projects, offer feedback, or collaborate — you're always welcome!
 
 ---
 
 ## 🧠 What I’m Learning & Improving
-- 🧱 **HTML & CSS** – Building beautiful and responsive layouts  
-- 🎨 **CSS Frameworks** – Exploring Tailwind CSS, Bootstrap & more  
-- 💡 **JavaScript** – Bringing life to web pages through interactivity  
-- ⚛️ **React.js** – Creating dynamic, modern web apps with components and hooks  
-- 🛠️ **Version Control** – Collaborating using Git & GitHub
+
+- 🧱 **HTML & CSS** – Clean, semantic, and responsive layouts  
+- 🎨 **CSS Frameworks** – Tailwind CSS, Bootstrap & modern styling techniques  
+- 💡 **JavaScript** – Making websites interactive and functional  
+- ⚛️ **React.js** – Building component-based web applications  
+- 🛠️ **Git & GitHub** – Version control & collaboration
 
 ---
 
 ## 🌱 Current Focus
-- Mastering **React** and deepening my **JavaScript** knowledge  
-- Practicing **problem-solving** and improving my code structure  
-- Exploring **open-source** and **real-world projects** to level up faster  
+
+- Mastering **JavaScript & React.js**  
+- Practicing **problem-solving** and logic building  
+- Contributing to **open-source** and **real-world projects**  
 
 ---
 
-## 🚀 Projects
-
-> 🔍 Check out my repositories to see what I’m working on!  
-> From creative mini-projects to real-world apps — I’m building things that inspire me and challenge my skills.
-
----
-
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -55,10 +51,10 @@ I'm passionate about crafting **𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 �
 
 ## 🔧 Tools I Use
 
-- VS Code (One Dark Pro + Prettier)  
-- Git & GitHub  
-- Chrome DevTools  
-- Figma for UI design and planning
+- 💻 VS Code (One Dark Pro + Prettier)  
+- 🔧 Chrome DevTools  
+- 🧩 Figma for UI Design  
+- 🔄 Git & GitHub for version control  
 
 ---
 
@@ -79,6 +75,7 @@ I'm passionate about crafting **𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 �
 </p>
 
 ---
+
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
@@ -95,13 +92,25 @@ I'm passionate about crafting **𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 �
   <img src="https://github-profile-trophy.vercel.app/?username=sanjidaRimi023&theme=monokai&row=1&column=6" alt="Trophies" />
 </p>
 
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjidaRimi023/sanjidaRimi023/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
-### 🤝 Open to:
-- Contributing to beginner-friendly or open-source projects  
-- Joining team projects and learning communities  
-- Receiving feedback to improve and grow as a dev  
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjidaRimi023.sanjidaRimi023" alt="Visitor badge"/>
+</p>
+### 🤝 Open To:
+
+- 💬 Contributing to beginner-friendly or open-source projects  
+- 👩‍💻 Collaborating on front-end or full-stack projects  
+- 🧠 Joining learning communities  
+- 💡 Receiving feedback to grow as a developer  
 
 ---
 
