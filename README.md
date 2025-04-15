@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 I'm passionate about crafting **interactive web applications** and love working on **collaborative projects** that help me grow, challenge my skills, and push creative boundaries. Whether it's solving problems with clean code or learning the latest frameworks, I'm always in "build mode"!
 
@@ -31,6 +31,18 @@ I'm passionate about crafting **interactive web applications** and love working 
 - Contributing to **open-source** and **real-world projects**  
 
 ---
+## 💡 Skills
+<p align="center m-5">
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+ <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 
 ## 🛠 Tech Stack & Tools
 
