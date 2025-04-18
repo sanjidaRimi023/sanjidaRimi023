@@ -63,7 +63,7 @@ I'm passionate about crafting **interactive web applications** and love working 
 
 ## 🔧 Tools I Use
 
-- 💻 VS Code (One Dark Pro + Prettier)  
+- 💻 VS Code   
 - 🔧 Chrome DevTools  
 - 🧩 Figma for UI Design  
 - 🔄 Git & GitHub for version control  
