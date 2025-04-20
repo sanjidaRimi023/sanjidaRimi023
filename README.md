@@ -52,16 +52,12 @@ I'm passionate about crafting **interactive web applications** and love working 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
 ## 🔧 Tools I Use
 
 - 💻 VS Code   
 - 🔧 Chrome DevTools  
 - 🧩 Figma for UI Design  
 - 🔄 Git & GitHub for version control  
-
 ---
 
 ## 🔗 Let’s Connect!
