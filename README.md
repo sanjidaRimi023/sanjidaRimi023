@@ -14,7 +14,7 @@ I'm passionate about crafting **interactive web applications** and love working 
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **what I’m Learning & Improving**
+##🧠 **what I’m Learning & Improving**
 
 - 🧱 **HTML & CSS** – Clean, semantic, and responsive layouts  
 - 🎨 **CSS Frameworks** – Tailwind CSS, Bootstrap & modern styling techniques  
