@@ -117,7 +117,7 @@ I'm passionate about crafting **interactive web applications** and love working 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&layout=compact&theme=tokyonight&hide_title=true&count_private=true&langs_count=10" alt="Top Languages" width="500"/>
 </p>
----
+
 
 ## 🏆 GitHub Trophy Case
 
@@ -127,23 +127,12 @@ I'm passionate about crafting **interactive web applications** and love working 
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/sanjidarimi/sanjidarimi/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-
-
-
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjidaRimi023.sanjidaRimi023" alt="Visitor badge"/>
 </p>
 
----
+
 
 
 ### 🤝 Open To:
