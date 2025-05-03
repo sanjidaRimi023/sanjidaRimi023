@@ -7,8 +7,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJicWhxOGlraXB1dWNwemU0Yzl1MXdsOW5rYzdrMjA2eGxsdmZlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300" />
 </p>
 
-
-
 <!-- 🚀 Scrolling Text -->
 <marquee behavior="scroll" direction="left" scrollamount="6">
   🚀 Passionate Front-End Developer | 💻 JavaScript | ⚛️ React | 🎨 Tailwind CSS | 🌱 Always Learning
@@ -119,6 +117,19 @@ I'm passionate about crafting **interactive web applications** and love working 
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/sanjidaRimi023/sanjidaRimi023/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🖋️ Languages I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 <p align="center">
