@@ -1,0 +1,26 @@
+name: Update Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight
+  workflow_dispatch: # Allows the workflow to be run manually
+
+jobs:
+  update-contribution-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate the Contribution Snake
+        uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push the new contribution graph
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "GitHub Actions"
+          author_email: "github-actions@github.com"
+          message: "Update contribution graph"
