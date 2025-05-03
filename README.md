@@ -1,16 +1,27 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0B55&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sanjida+Akter+Rimi!;Aspiring+Front-End+Developer+%F0%9F%9A%80;Always+Learning+%E2%9C%A8Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
 
-<!-- GIF Banner Right Aligned -->
-<p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJicWhxOGlraXB1dWNwemU0Yzl1MXdsOW5rYzdrMjA2eGxsdmZlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300" />
+
+<!-- Container for GIF and Text -->
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+   
+   <h1>
+  <b>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=FF0B55&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjida+Akter+Rimi!;Aspiring+Front-End+Developer+%F0%9F%9A%80;Always+Learning+%E2%9C%A8Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  </b>
+</h1>
+    <!-- GIF Banner -->
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJicWhxOGlraXB1dWNwemU0Yzl1MXdsOW5rYzdrMjA2eGxsdmZlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300" />
+  </div>
 </p>
 
-<!-- 🚀 Scrolling Text -->
-<marquee behavior="scroll" direction="left" scrollamount="6">
+
+
+<h3 align="center">
   🚀 Passionate Front-End Developer | 💻 JavaScript | ⚛️ React | 🎨 Tailwind CSS | 🌱 Always Learning
-</marquee>
+</h3>
+
+
+
 
 ---
 
@@ -95,7 +106,7 @@ I'm passionate about crafting **interactive web applications** and love working 
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## 📊 GitHub Stats , Streaks & Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -103,6 +114,9 @@ I'm passionate about crafting **interactive web applications** and love working 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=tokyonight" alt="GitHub Streaks"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&layout=compact&theme=tokyonight&hide_title=true&count_private=true&langs_count=10" alt="Top Languages" width="500"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophy Case
@@ -113,30 +127,24 @@ I'm passionate about crafting **interactive web applications** and love working 
 
 ---
 
-<!-- 🐍 Contribution Snake Animation -->
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://github.com/sanjidaRimi023/sanjidaRimi023/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sanjidarimi/sanjidarimi/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🖋️ Languages I Use
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+
+
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjidaRimi023.sanjidaRimi023" alt="Visitor badge"/>
 </p>
 
 ---
+
 
 ### 🤝 Open To:
 
