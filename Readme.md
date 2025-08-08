@@ -1,17 +1,7 @@
 
 
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+ href="https://www.facebook.com/mirhussainmurtaza/">
 <img src="./sanjidarimi.png" />
-</a>
-
-
-
-<h3 align="center">
-  🚀 Passionate Front-End Developer | 💻 JavaScript | ⚛️ React | 🎨 Tailwind CSS | 🌱 Always Learning
-</h3>
-
-
-
 
 ---
 
@@ -45,12 +35,6 @@ I’ve led and contributed to several team and solo projects, including:
 ##### 💬 What Drives Me:
 
 I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
-
-##### 🤝 Let’s Connect!
-
-I’m always open to collaborating on exciting tech projects or connecting with like-minded professionals. Whether you're hiring, building something cool, or just want to chat tech — feel free to reach out!
-
-<br/>
 
 ---  
 ## 💡 Skills
@@ -90,10 +74,14 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 
 ---
 
-## 🔗 Let’s Connect!
+##### 🤝 Let’s Connect!
+
+I’m always open to collaborating on exciting tech projects or connecting with like-minded professionals. Whether you're hiring, building something cool, or just want to chat tech — feel free to reach out!
+
+<br/>
 
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=61554696036982" target="_blank" title="Facebook">
+p> <a href="https://www.facebook.com/profile.php?id=61554696036982" target="_blank" title="Facebook">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
   </a>
   &nbsp;
@@ -114,13 +102,21 @@ I’m always open to collaborating on exciting tech projects or connecting with 
   <img src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
 </p>
+
+
 ---
-## Git hub streaks 
+
+##  Git hub streaks 
+
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=tokyonight" alt="GitHub Streaks"/>
 </p>
+
 --- 
-## Most used Language 
+
+##  Most used Language 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&layout=compact&theme=tokyonight&hide_title=true&count_private=true&langs_count=10" alt="Top Languages" width="500"/>
 </p>
