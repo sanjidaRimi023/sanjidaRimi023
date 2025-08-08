@@ -1,6 +1,4 @@
 
-
- href="https://www.facebook.com/mirhussainmurtaza/">
 <img src="./sanjidarimi.png" />
 
 ---
@@ -54,7 +52,7 @@ I love solving complex problems, writing clean and efficient code, and constantl
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tools I use 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -65,34 +63,11 @@ I love solving complex problems, writing clean and efficient code, and constantl
 
 ---
 
-## 🔧 Tools I Use
-
-- 💻 VS Code   
-- 🔧 Chrome DevTools  
-- 🧩 Figma for UI Design  
-- 🔄 Git & GitHub for version control  
-
----
-
 ##### 🤝 Let’s Connect!
 
 I’m always open to collaborating on exciting tech projects or connecting with like-minded professionals. Whether you're hiring, building something cool, or just want to chat tech — feel free to reach out!
 
-<br/>
 
-<p align="left">
-p> <a href="https://www.facebook.com/profile.php?id=61554696036982" target="_blank" title="Facebook">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/sanjidaa_rimii/" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sanjidarimi023@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
-  </a>
-</p>
 
 ---
 
@@ -136,17 +111,21 @@ p> <a href="https://www.facebook.com/profile.php?id=61554696036982" target="_bla
 </p>
 
 
+<br/>
+
+### 📞Find me
 
 
-### 🤝 Open To:
-
-- 💬 Contributing to beginner-friendly or open-source projects  
-- 👩‍💻 Collaborating on front-end or full-stack projects  
-- 🧠 Joining learning communities  
-- 💡 Receiving feedback to grow as a developer  
-
----
-
-Thanks for stopping by! 😊  
-Feel free to ⭐ any repo you like or reach out —  
-**Let’s grow together as developers and build something awesome! 💻✨**
+<p align="center">
+ <a href="https://www.facebook.com/profile.php?id=61554696036982" target="_blank" title="Facebook">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sanjidaa_rimii/" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sanjidarimi023@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
+</p>
