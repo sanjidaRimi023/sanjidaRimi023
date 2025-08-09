@@ -81,7 +81,7 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 
 ---
 
-##  Git hub streaks 
+##  Github streaks 
 
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=tokyonight" alt="GitHub Streaks"/>
