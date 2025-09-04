@@ -1,7 +1,7 @@
 
-<img src="./sanjidarimi.png" />
+<img src="https://i.ibb.co.com/BMS8pSC/banner.png" />
 
----
+
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -34,98 +34,107 @@ I’ve led and contributed to several team and solo projects, including:
 
 I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
 
----  
-## 💡 Skills
 
-<p align="center m-5">
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p>
+## 💡 Skills & Technologies
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60px" alt="HTML5"/>
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60px" alt="CSS3"/>
+      <br /><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60px" alt="JavaScript"/>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60px" alt="React"/>
+      <br /><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60px" alt="Tailwind CSS"/>
+      <br /><sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png?raw=true" width="60px" alt="Redux"/>
+      <br /><sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png?raw=true" width="60px" alt="Bootstrap"/>
+      <br /><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60px" alt="Firebase"/>
+      <br /><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60px" alt="Node.js"/>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60px" alt="Express.js"/>
+      <br /><sub><b>Express.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="150">
+      </td>
+    <td align="center" width="150">
+      </td>
+    <td align="center" width="150">
+      </td>
+    <td align="center" width="150">
+      </td>
+  </tr>
+</table>
 
 ## 🛠 Tools I use 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
 
-##### 🤝 Let’s Connect!
+
+## 🤝 Let’s Connect!
 
 I’m always open to collaborating on exciting tech projects or connecting with like-minded professionals. Whether you're hiring, building something cool, or just want to chat tech — feel free to reach out!
-
-
-
----
-
-## GitHub Stats
-
+<br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-</p>
-
-
----
-
-##  Github streaks 
-
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=tokyonight" alt="GitHub Streaks"/>
-</p>
-
---- 
-
-##  Most used Language 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&layout=compact&theme=tokyonight&hide_title=true&count_private=true&langs_count=10" alt="Top Languages" width="500"/>
-</p>
-
-
-## 🏆 GitHub Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjidaRimi023&theme=monokai&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjidaRimi023.sanjidaRimi023" alt="Visitor badge"/>
-</p>
-
-
-<br/>
-
-### 📞Find me
-
-
-<p align="center">
- <a href="https://www.facebook.com/profile.php?id=61554696036982" target="_blank" title="Facebook">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+  <a href="https://www.linkedin.com/sanjida-akter-rimi711909">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/sanjidaa_rimii/" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sanjidarimi023@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  <a href="https://www.facebook.com/sanjida.rimi.123653">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
   </a>
 </p>
+<br />
+
+##  📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streaks" />
+</p>
+
+
+
+
