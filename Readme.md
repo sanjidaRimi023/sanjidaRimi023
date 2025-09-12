@@ -7,7 +7,7 @@
 
 Assalamualaikum and welcome!
 
-I'm Sanjida Akter Rimi,  a dedicated and enthusiastic **Frontend-focused MERN Stack Developer** based in **Kurigram, Bangladesh**. I specialize in building fast, clean, and scalable web applications using modern tools like `React.js`, `Next.js`,`Node.js`, `Express.js`, `MongoDB`, and `Firebase`.
+I'm Sanjida Akter Rimi, a dedicated and enthusiastic  **Frontend-focused MERN Stack Developer**  based in  **Kurigram, Bangladesh**. I am skilled in developing fast and efficient web applications using modern technologies such as `React.js`, `Next.js`,`Node.js`, `Express.js`, `MongoDB`, and `Firebase`.
 
 With a strong foundation in **HTML**, **CSS**, and responsive UI frameworks like **Tailwind CSS**, **Shadcn UI**, and **Bootstrap**, I bring user interfaces to life that are both visually appealing and functionally robust. I’m passionate about creating seamless user experiences that are accessible, modern, and performance-driven.
 
@@ -35,8 +35,10 @@ I’ve led and contributed to several team and solo projects, including:
 I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
 
 
-## 💡 Skills & Technologies
 
+## 💡 Skills & Tools
+
+### Core Technologies
 <table align="center">
   <tr>
     <td align="center" width="150">
@@ -83,30 +85,40 @@ I love solving complex problems, writing clean and efficient code, and constantl
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="150" colspan="5">
       <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
       <br /><sub><b>MongoDB</b></sub>
     </td>
-    <td align="center" width="150">
-      </td>
-    <td align="center" width="150">
-      </td>
-    <td align="center" width="150">
-      </td>
-    <td align="center" width="150">
-      </td>
   </tr>
 </table>
 
-## 🛠 Tools I use 
-
+### Development Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
+##  📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streaks" />
+</p>
+
+
+## 🔥 Top Languages
+
+<div style="display: flex; justify-content: center; overflow: hidden;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&hide_border=true&theme=react&bg_color=0D1117&text_color=00F0FF&title_color=FF1CF7&card_width=1280&card_height=460" 
+    alt="GitHub Top Languages" 
+    style="max-width: 100%; height: auto;" 
+  />
+</div>
 
 
 ## 🤝 Let’s Connect!
@@ -122,19 +134,4 @@ I’m always open to collaborating on exciting tech projects or connecting with 
   </a>
 </p>
 <br />
-
-##  📊 GitHub Stats
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
-</p>
-
-## 🔥 GitHub Streaks
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streaks" />
-</p>
-
-
-
 
