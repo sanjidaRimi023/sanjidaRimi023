@@ -85,12 +85,17 @@ I love solving complex problems, writing clean and efficient code, and constantl
     </td>
   </tr>
   <tr>
-    <td align="center" width="150" colspan="5">
+    <td align="center" width="150">
       <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
       <br /><sub><b>MongoDB</b></sub>
     </td>
+    <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" />
+      <br /><sub><b>Next.js</b></sub>
+    </td>
   </tr>
 </table>
+
 
 ### Development Tools
 <p align="center">
