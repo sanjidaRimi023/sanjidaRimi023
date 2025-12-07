@@ -15,7 +15,7 @@ On the backend, I focus on developing secure, maintainable APIs and full-feature
 
 ##### 🔧 What i use :
 
-- Frontend: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI  
+- Frontend: React.js, Next.js, Typescipt, JavaScript, Tailwind CSS, Bootstrap, Shadcn UI  
 - Backend: Node.js, Express.js, MongoDB, JWT  
 - Dev Tools: Figma, Canva, Firebase, Git, VS Code  
 - Practices: Agile development, RESTful API design, Secure authentication, Performance optimization
