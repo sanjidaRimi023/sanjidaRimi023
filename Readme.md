@@ -105,7 +105,7 @@ I love solving complex problems, writing clean and efficient code, and constantl
 ##  📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
+  <img width="60%" src="[https://github-readme-stats.vercel.app/api?username](https://nirzak-streak-stats.vercel.app/?)=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
 </p>
 
 ## 🔥 GitHub Streaks
