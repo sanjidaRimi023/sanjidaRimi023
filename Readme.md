@@ -102,25 +102,25 @@ I love solving complex problems, writing clean and efficient code, and constantl
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
+
 ##  📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="[https://github-readme-stats.vercel.app/api?username](https://nirzak-streak-stats.vercel.app/?)=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
 </p>
 
 ## 🔥 GitHub Streaks
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streaks" />
-</p>
-
+<div align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=sanjidaRimi023&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streaks" />
+</div>
 
 
 ## 🔥 Top Languages
 
 <div style="display: flex; justify-content: center; overflow: hidden;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&hide_border=true&theme=react&bg_color=0D1117&text_color=00F0FF&title_color=FF1CF7&card_width=1280&card_height=460" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&hide_border=true&theme=react&bg_color=0D1117&text_color=00F0FF&title_color=FF1CF7&card_width=1020&card_height=460" 
     alt="GitHub Top Languages" 
     style="max-width: 100%; height: auto;" 
   />
