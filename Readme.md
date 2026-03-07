@@ -38,61 +38,64 @@ I love solving complex problems, writing clean and efficient code, and constantl
 
 ## 💡 Skills & Tools
 
+### Core Technologies
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60px" alt="HTML5"/>
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60px" alt="CSS3"/>
+      <br /><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60px" alt="JavaScript"/>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60px" alt="React"/>
+      <br /><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60px" alt="Tailwind CSS"/>
+      <br /><sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png?raw=true" width="60px" alt="Redux"/>
+      <br /><sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png?raw=true" width="60px" alt="Bootstrap"/>
+      <br /><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60px" alt="Firebase"/>
+      <br /><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60px" alt="Node.js"/>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60px" alt="Express.js"/>
+      <br /><sub><b>Express.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" />
+      <br /><sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Core Technologies
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="55px" alt="HTML5"/>
-    <br /><sub><b>HTML5</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="55px" alt="CSS3"/>
-    <br /><sub><b>CSS3</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="55px" alt="JS"/>
-    <br /><sub><b>JavaScript</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="55px" alt="React"/>
-    <br /><sub><b>React.js</b></sub>
-  </div>
-
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="55px" alt="Next.js" />
-    <br /><sub><b>Next.js</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="55px" alt="Tailwind"/>
-    <br /><sub><b>Tailwind CSS</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png?raw=true" width="55px" alt="Redux"/>
-    <br /><sub><b>Redux</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="55px" alt="Node"/>
-    <br /><sub><b>Node.js</b></sub>
-  </div>
-
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="55px" alt="Express"/>
-    <br /><sub><b>Express.js</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="55px" alt="MongoDB"/>
-    <br /><sub><b>MongoDB</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="55px" alt="Firebase"/>
-    <br /><sub><b>Firebase</b></sub>
-  </div>
-  <div style="width: 24%; text-align: center; margin-bottom: 20px;">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png?raw=true" width="55px" alt="Bootstrap"/>
-    <br /><sub><b>Bootstrap</b></sub>
-  </div>
-</div>
 
 ### Development Tools
 <p align="center">
