@@ -1,4 +1,4 @@
-<img src="/img/rimi_image.png" width="150" style="border-radius: 50%;" />
+<img src="/img/rimi_image.png" style="border-radius: 50%;" />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 Assalamualaikum! I'm **Sanjida Akter Rimi**, a Frontend-focused MERN Stack Developer from **Kurigram, Bangladesh**.
