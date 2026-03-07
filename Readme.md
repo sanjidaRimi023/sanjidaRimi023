@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co.com/BMS8pSC/banner.png" />
+<img src="/img/rimi_image.png" />
 
 
 
