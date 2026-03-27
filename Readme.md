@@ -1,157 +1,189 @@
-<img src="/img/rimi_image.png" style="border-radius: 50%;" />
+<div align="center">
+  <img src="/img/rimi_image.png" width="1000" style="border-radius: 50%; border: 4px solid #FF1CF7; box-shadow: 0 0 20px #FF1CF7;" />
+  
+  ### 👋 Assalamualaikum! Welcome to my GitHub
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend-Focused+MERN+Stack+Developer;Building+Modern+Web+Applications;From+Kurigram%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  </p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/sanjida-akter-rimi711909"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/sanjida.rimi.123653"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+</div>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-Assalamualaikum! I'm **Sanjida Akter Rimi**, a Frontend-focused MERN Stack Developer from **Kurigram, Bangladesh**.
+<br/>
 
-I build modern, responsive web applications using `React.js` and `Next.js` with a strong focus on **performance, clean UI, and maintainable code**.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-My typical stack includes `React`, `Next.js`, `Node.js`, `Express.js`, `MongoDB`, `NextAuth`, and `Firebase`. I enjoy turning complex ideas into **simple, usable interfaces**.
+## 🎯 About Me
+```javascript
+const rimi = {
+    location: "Kurigram, Bangladesh 🇧🇩",
+    currentFocus: ["JavaScript Problem Solving", "Clean Architecture", "Performance Optimization"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js", "Next.js"],
+            css: ["Tailwind CSS", "Bootstrap", "Shadcn UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+            database: ["MongoDB"],
+            auth: ["NextAuth", "JWT", "Firebase"]
+        },
+        tools: ["Git", "VS Code", "Figma", "Canva"]
+    },
+    architecture: ["RESTful API", "Single Page Applications", "Responsive Design"],
+    currentChallenge: "Building scalable full-stack applications with cutting-edge tech"
+};
+```
 
-**Currently focused on:**
-- Improving core JavaScript problem-solving
-- Building full-stack applications with clean architecture
-- Learning better performance and state management patterns
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🛠️ Tech Arsenal
 
-### 🔧 Tech Stack
+<div align="center">
 
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Shadcn UI  
-- **Backend:** Node.js, Express.js, MongoDB, JWT  
-- **Tools:** Firebase, Git, Figma, Canva, VS Code  
-- **Practices:** RESTful API design, Secure authentication, Performance optimization
+### Frontend Magic ✨
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
 
----
+### Backend Power ⚡
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+</p>
 
-### 🚀 Projects
+### Tools & Workflow 🔧
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman&theme=dark" />
+</p>
 
-#### ApplyMate
-ApplyMate is a comprehensive AI-powered job application management system that helps job seekers organize, track, and manage all their job applications in one centralized platform.  
+</div>
 
-**Tech:** Next.js, Node.js, Express.js, MongoDB, NextAuth, JWT  
-**Features:**  
--  Centralized Dashboard - All applications in one place 
--  AI-Powered Automation - Smart job scraping and email sync
-- Real-Time Analytics - Track your job search progress
-- Gmail Integration - Auto-update application status
-- Chrome Extension - One-click job saving from any site
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### BookGalaxy
-A full-stack library management system for borrowing and returning books.  
+## 🚀 Featured Projects
 
-**Tech:** React, Node.js, Express, MongoDB, Firebase, JWT  
-**Features:**  
-- User authentication  
-- Borrow/return book system  
-- Category-based book filtering
+<div align="center">
 
-#### The Daily Bulletin
-A full-stack news platform with article management and subscription system.  
-
-**Tech:** React, Node.js, Express, MongoDB, Firebase, Stripe  
-**Features:**  
-- Article publishing and admin moderation  
-- Real-time updates  
-- Premium subscription support
-
----
-
-### 💡 Skills & Tools
-
-#### Core Technologies
-<table align="center">
+<table>
 <tr>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60px" alt="HTML5"/>
-    <br /><sub><b>HTML5</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60px" alt="CSS3"/>
-    <br /><sub><b>CSS3</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60px" alt="JavaScript"/>
-    <br /><sub><b>JavaScript</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60px" alt="React"/>
-    <br /><sub><b>React.js</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60px" alt="Tailwind CSS"/>
-    <br /><sub><b>Tailwind CSS</b></sub>
-  </td>
+<td width="50%">
+
+### 🎯 ApplyMate
+**AI-Powered Job Application Manager**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+```yaml
+Features:
+  - AI Job Scraping
+  - Gmail Integration
+  - Chrome Extension
+  - Real-time Analytics
+  - Application Tracking
+```
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+<td width="50%">
+
+### 📚 BookGalaxy
+**Library Management System**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+```yaml
+Features:
+  - User Authentication
+  - Book Borrowing System
+  - Category Filtering
+  - Return Management
+```
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
 </tr>
+
 <tr>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png?raw=true" width="60px" alt="Redux"/>
-    <br /><sub><b>Redux</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png?raw=true" width="60px" alt="Bootstrap"/>
-    <br /><sub><b>Bootstrap</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60px" alt="Firebase"/>
-    <br /><sub><b>Firebase</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60px" alt="Node.js"/>
-    <br /><sub><b>Node.js</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60px" alt="Express.js"/>
-    <br /><sub><b>Express.js</b></sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="150">
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
-    <br /><sub><b>MongoDB</b></sub>
-  </td>
-  <td align="center" width="150">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" />
-    <br /><sub><b>Next.js</b></sub>
-  </td>
+<td width="50%">
+
+### 📰 The Daily Bulletin
+**News Platform with Subscriptions**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
+```yaml
+Features:
+  - Article Publishing
+  - Admin Moderation
+  - Real-time Updates
+  - Premium Subscriptions
+```
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+<td width="50%">
+
+### 🌟 More Projects
+**Explore my repositories**
+```yaml
+Building:
+  - E-commerce Platform
+  - Social Media App
+  - Portfolio Website
+  - Chrome Extensions
+```
+
+[📂 View All Projects →](#)
+
+</td>
 </tr>
 </table>
 
-#### Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark" />
-</p>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=sanjidaRimi023&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Analytics
 
-### 🔥 GitHub Streaks
+
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=sanjidaRimi023&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidaRimi023&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakLabel=00F0FF" />
 </div>
 
-### 🔥 Top Languages
-<div style="display: flex; justify-content: center; overflow: hidden;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidaRimi023&hide_border=true&theme=react&bg_color=0D1117&text_color=00F0FF&title_color=FF1CF7&card_width=1020&card_height=460" 
-    alt="GitHub Top Languages" 
-    style="max-width: 100%; height: auto;" 
-  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjidaRimi023&bg_color=0d1117&color=00f0ff&line=ff1cf7&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
----
 
-### 🤝 Let’s Connect
-I’m always open to collaborating on exciting tech projects or connecting with like-minded professionals.  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjida-akter-rimi711909">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
-  </a>
-  <a href="https://www.facebook.com/sanjida.rimi.123653">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
-  </a>
-</p>
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### 📫 Let's Build Something Amazing Together!
+
+**Open for collaborations • Freelance projects • Full-time opportunities**
+
+<img src="https://komarev.com/ghpvc/?username=sanjidaRimi023&style=for-the-badge&color=FF1CF7" alt="Profile views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
